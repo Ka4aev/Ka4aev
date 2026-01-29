@@ -57,21 +57,21 @@
 
 ## 💼 Professional Experience
 
-- **Frontend Developer** @  
+- **Frontend Developer** 
   [Academy of Trading](https://academyoftrading.ru/) (2025–2026)  
   *Nuxt 4, TypeScript, TanStack, Nuxt UI*
 
-- **Frontend Developer** @  
+- **Frontend Developer**   
   [Taskie](https://taskie.ru/) (2025)  
-  *Vue 3, Tailwind, SCSS*
+  *Vue 3, Tailwind, SCSS, Pinia*
 
-- **Frontend Developer** @  
+- **Frontend Developer**   
   [Iceberg](https://iceberg.su/) (2025)  
-  *Nuxt, TypeScript*
+  *Nuxt, TypeScript, Tailwind, Nuxt UI, Pinia*
 
-- **Frontend Developer** @  
-  [DESC](https://desc.su/) (2025)  
-  *Vue 3, TypeScript, Shadcn, SCSS, Tailwind*
+- **Frontend Developer**   
+  [Парсер министерств](https://desc.su/) (2025)  
+  *Vue 3, TypeScript, Shadcn, SCSS, Tailwind, Pinia*
 
 ---
 
@@ -80,32 +80,7 @@
 - ✅ Participated in team development
 - ✅ Code reviews and refactoring
 - ✅ Improving project structure
-- ✅ Supporting junior developers
 - ✅ Maintaining coding standards
-
----
-
-## 🚀 Personal Projects
-
-### 🔹 Task Manager Dashboard
-> Vue 3 + Pinia + TanStack Query  
-Productivity app with real-time updates
-
-### 🔹 Education Platform
-> Nuxt + TypeScript + FSD  
-Learning portal with modular architecture
-
-### 🔹 Portfolio Website
-> Vue + Tailwind  
-Personal website with animations and SEO optimization
-
----
-
-## 🏆 Achievements
-
-- 🥈 Regional IT Competitions Participant
-- 📜 Completed professional frontend courses
-- 🌟 Open-source contributions
 
 ---
 
