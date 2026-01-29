@@ -10,7 +10,6 @@
 📧 [staskachaev2005@gmail.com](mailto:staskachaev2005@gmail.com)  
 💬 [Telegram](https://t.me/mamamakysa)  
 
-
 </div>
 
 ---
@@ -33,9 +32,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### State & Data
-![Pinia](https://img.shields.io/badge/Pinia-ffd859?style=for-the-badge&logo=vue.js&logoColor=black)
+![Pinia](https://img.shields.io/badge/Pinia-ffd859?style=for-the-badge&logo=pinia&logoColor=black)
 ![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Pinia Colada](https://img.shields.io/badge/Pinia_Colada-5fa8ff?style=for-the-badge&logoColor=white)
+![Pinia Colada](https://img.shields.io/badge/Pinia_Colada-5fa8ff?style=for-the-badge&logo=pinia&logoColor=white)
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -46,6 +45,27 @@
 ![SCSS](https://img.shields.io/badge/SCSS-cf649a?style=for-the-badge&logo=sass&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PicoCSS](https://img.shields.io/badge/PicoCSS-8B5CF6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Libraries & UI
+![VueUse](https://img.shields.io/badge/VueUse-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
+![NuxtUI](https://img.shields.io/badge/Nuxt_UI-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![ShadcnUI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=react&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![TradingView](https://img.shields.io/badge/TradingView-2962FF?style=for-the-badge&logo=tradingview&logoColor=white)
+![VeeValidate](https://img.shields.io/badge/Vee_Validate-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
+
+### Validation
+![Yup](https://img.shields.io/badge/Yup-3178c6?style=for-the-badge&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logoColor=white)
+
+### Approaches
+![FSD](https://img.shields.io/badge/FSD_(Feature_Sliced_Design)-6B46C1?style=for-the-badge&logoColor=white)
+![BFF](https://img.shields.io/badge/BFF_(Backend_For_Frontend)-1E40AF?style=for-the-badge&logoColor=white)
+
+### Formatters & Linters
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
