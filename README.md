@@ -7,8 +7,8 @@
 💡 Focused on clean architecture and best UX practices  
 
 📫 Contact:  
-📧 [staskachaev2005@gmail.com](mailto:staskachaev2005@gmail.com)  
-💬 [Telegram](https://t.me/mamamakysa)  
+📧 [staskachaev2005@gmail.com](mailto:stan.kachaev@gmail.com)  
+💬 [Telegram](https://t.me/skachaev)  
 
 </div>
 
