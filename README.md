@@ -8,7 +8,8 @@
 
 📫 Contact:  
 📧 [stan.kachaev@gmail.com](mailto:stan.kachaev@gmail.com)  
-💬 [Telegram](https://t.me/skachaev)  
+💬 [Telegram](https://t.me/skachaev)
+📄 [My CV](https://docs.google.com/document/d/1NVgU8SAJZkTMWX-cpiQFxRJoIKuVmGMolN_25AHsAUE/edit?usp=sharing)
 
 </div>
 
@@ -16,7 +17,7 @@
 
 ## 🧩 About Me
 
-- 💻 Frontend Developer specializing in Vue & Nuxt
+- 💻 Frontend Developer specializing in Vue/Nuxt & React
 - ⚡ Passionate about performance and UI/UX
 - 🧠 Interested in scalable architectures
 - 🌱 Continuously improving frontend skills
@@ -78,27 +79,18 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-a259ff?style=for-the-badge&logo=figma&logoColor=white)
-
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 ---
 
 ## 💼 Professional Experience
 
 - **Frontend Developer** 
-  [Academy of Trading](https://academyoftrading.ru/) (2025–2026)  
-  *Nuxt 4, TypeScript, TanStack, Nuxt UI*
+  [Academy of Trading] — Middle Frontend Developer (2025–present)  
+  *Nuxt 4, TypeScript, Pinia Colada, TradingView, Nitro Server, FSD, Tailwind, Nuxt UI*
 
-- **Frontend Developer**   
-  [Taskie](https://taskie.ru/) (2025)  
-  *Vue 3, Tailwind, SCSS, Pinia*
-
-- **Frontend Developer**   
-  [Iceberg](https://iceberg.su/) (2025)  
-  *Nuxt, TypeScript, Tailwind, Nuxt UI, Pinia*
-
-- **Frontend Developer**   
-  [Парсер министерств](https://desc.su/) (2025)  
-  *Vue 3, TypeScript, Shadcn, SCSS, Tailwind, Pinia*
-
+- **Frontend Developer**
+  [ООО "Программные решения для бизнеса"] — Frontend Developer (2023–2025) 
+  *Vue, React, TypeScript, TanStack Query, Zustand, Redux Toolkit, WebSockets, Shadcn*
 ---
 
 ## 👨‍💻 Leadership & Collaboration
