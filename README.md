@@ -111,19 +111,6 @@
 - Time Management
 - Adaptability
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ka4aev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ka4aev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
